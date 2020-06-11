@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Projects](https://github.io/kjhuang-94/personal-website/projects)  
+[Projects](https://github.io/kjhuang-94/personal-website/projects/README)  
 
 You can use the [editor on GitHub](https://github.com/kjhuang-94/personal-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
