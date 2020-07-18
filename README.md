@@ -1,5 +1,6 @@
 ## Home Page
 ### About Me
+Hi there! I am Kuanju Huang. I will graduated from Master degree Business administration from SJTU  Antai College of Economics & Management in Mar 2021.
 [Projects](https://kjhuang-94.github.io/personal-website/projects/)  
 
 You can use the [editor on GitHub](https://github.com/kjhuang-94/personal-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
