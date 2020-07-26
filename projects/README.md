@@ -10,8 +10,8 @@ This case study is my first project after I started learning data science by pyt
 The datasets are published each week at: [MakeoverMonday Datasets](https://www.makeovermonday.co.uk/data/).
 
 ### My MakeoverMonday Vizzes (Ongoing)
-Date | Topic | Data Source
------------- | ------------- | -------------
-1 | 2 |3
-11| 22| 33
+ Date | Topic | Data Source
+ ------------ | ------------- | -------------
+ 1 | 2 |3
+ 11| 22| 33
 
