@@ -2,7 +2,7 @@
 
 
 ### Data Visualization Projects
-#### [#A data analysis case study of COVID-19 in Taiwan](https://kjhuang-94.github.io/personal-website/blob/master/projects/case%20study%20of%20COVID-19/A%20data%20analysis%20case%20study%20of%20COVID-19%20in%20Taiwan.html)
+#### [#A data analysis case study of COVID-19 in Taiwan](https://kjhuang-94.github.io/personal-website/projects/case%20study%20of%20COVID-19/A%20data%20analysis%20case%20study%20of%20COVID-19%20in%20Taiwan.html)
 https://github.com/kjhuang-94/personal-website/blob/master/projects/case%20study%20of%20COVID-19/A%20data%20analysis%20case%20study%20of%20COVID-19%20in%20Taiwan.html
 This case study is my first project after I started learning data science by python through online courses in my spare time.If you are interested in the situation of coronavirus in Taiwan, please feel free to have a look and drop any question. **This report is only for your reference, because I am not an expert in epidemiology.** 
 #### #MakeoverMonday
