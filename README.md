@@ -13,12 +13,12 @@ My analytical skillset includes:
 This site works as a gallery of my data projects as well as my own thoughts on data analysis.
 
 
-* [Projects](https://kjhuang-94.github.io/personal-website/projects/)  : My data mining, data visualization projects.
+* [Projects](https://kjhuang-94.github.io/personal-website/projects/)  : My data analysis, data visualization projects.
 * Blog: My own thoughts and experience on learning and working in the data fields.
 
 
 ### Contact Me  
-My LinkedIn
-My Github
-E-mail: 
+<br>My LinkedIn
+<br>My Github
+<br>E-mail: kuanjuhuang94@gmail.com 
 
