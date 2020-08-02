@@ -5,7 +5,8 @@
 The datasets are published each week at: [MakeoverMonday Datasets](https://www.makeovermonday.co.uk/data/).
 
 ### Makeover Monday 20200727
-
+This week we use the dataset about women representation in parliament 1997-2019. 
+Source from world bank data, measured using % of seats held by women in national parliaments around the world. 
 #### My Visualization
 
 – 
@@ -16,7 +17,10 @@ The datasets are published each week at: [MakeoverMonday Datasets](https://www.m
 
 – 
 #### Insights
-
+- Generally speaking, we can obeserving that the women in parliament of all world has gone up 13% over the pass 23 years, from 12% o 25%;
+- Also, Europe & Central Aisa has still mantaining high % of seats held by women in national parliaments from 1997 to 2019;
+- Although North Africa, South Asia, East Asia & Pacific have growth in pass 23 years, the women in parliament of these regions still less than 20%;
+- 
 –  
 <br>[Back to Home Page](https://kjhuang-94.github.io/personal-website/) 
 
