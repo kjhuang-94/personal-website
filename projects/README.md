@@ -13,7 +13,7 @@ The datasets are published each week at: [MakeoverMonday Datasets](https://www.m
 
 Date | Topic | Data Source 
 ------------ | ------------- | ------------- 
-20200727 | Women in power |[World bank](http://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=excel) 
+20200727 | [Women in power ](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200727.md)|[World bank](http://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=excel) 
 11| 22| 33 
 
 –  
