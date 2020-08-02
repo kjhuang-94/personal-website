@@ -20,6 +20,8 @@ Source from world bank data, measured using % of seats held by women in national
 - Generally speaking, we can obeserving that the women in parliament of all world has gone up 13% over the pass 23 years, from 12% to 25%;
 - Also, Europe & Central Aisa has still mantaining high % of seats held by women in national parliaments from 1997 to 2019;
 - Although North Africa, South Asia, East Asia & Pacific have growth in pass 23 years, the women in parliament of these regions still less than 20%.
-– Rwanda has the highest proportion from the 2016, and it has also seen the highest increase in the proportion, then it's followed by Sweden and Cuba. 
+- Rwanda has the highest proportion from the 2016, and it has also seen the highest increase in the proportion, then it's followed by Sweden and Cuba. 
+
+– 
 <br>[Back to Home Page](https://kjhuang-94.github.io/personal-website/) 
 
