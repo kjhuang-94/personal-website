@@ -23,6 +23,6 @@ Source from world bank data, measured using % of seats held by women in national
 - Rwanda has the highest proportion from the 2016, and it has also seen the highest increase in the proportion, then it's followed by Sweden and Cuba. 
 
 – 
-⬅️[Previous](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200720) 
+<br>⬅️[Previous](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200720) 
 <br>[Back to Home Page](https://kjhuang-94.github.io/personal-website/) 
 
