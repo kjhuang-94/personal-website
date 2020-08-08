@@ -18,7 +18,6 @@ This site works as a gallery of my data projects as well as my own thoughts on d
 
 
 ### Contact Me  
-<br>My LinkedIn
-<br>My Github
+
 <br>E-mail: kuanjuhuang94@gmail.com 
 
