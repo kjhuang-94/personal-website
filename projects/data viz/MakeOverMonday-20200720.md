@@ -26,5 +26,5 @@ Source from Pew Research data, measured using % of acceptance of homosexuality a
 
 
 – 
-⬅️[Previous]() ➡️[Next](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200727)
+<br>⬅️[Previous]() ➡️[Next](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200727)
 <br>[Back to Home Page](https://kjhuang-94.github.io/personal-website/) 
