@@ -4,10 +4,9 @@ Hi there! I am Kuanju Huang. I will graduated from Master degree of Business adm
 
 My analytical skillset includes:
 
-* Data analysis:  Excel, SQL, Python
+* Data analysis:  Excel(Vlookup,Pivot Table), SQL, Python
 * Visualization: Python, Tableau
-* Databases: MySQL
-* A/B Testing
+* Databases: MySQL 
 
 ### About This Site
 This site works as a gallery of my data projects as well as my own thoughts on data analysis.
