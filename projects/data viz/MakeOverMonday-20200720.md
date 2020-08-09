@@ -4,7 +4,7 @@
 
 The datasets are published each week at: [MakeoverMonday Datasets](https://www.makeovermonday.co.uk/data/).
 
-### Makeover Monday 20200727
+### Makeover Monday 20200720
 This week, the article is about the global perception of homosexuality. It talks about how each country thinks about homosexuality,
 and how it changes over time. 
 Source from Pew Research data, measured using % of acceptance of homosexuality and religon attitudes. 
@@ -15,7 +15,7 @@ Source from Pew Research data, measured using % of acceptance of homosexuality a
 
 <iframe src="https://public.tableau.com/views/200720TheGlobalDivideonHomosexualityPersists/1?:language=zh-Hant&:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true"  width="1280" height="766"></iframe>
 
-##### Click here: [My tableau public-Women in power](https://public.tableau.com/views/200720TheGlobalDivideonHomosexualityPersists/1?:language=zh-Hant&:display_count=y&publish=yes&:origin=viz_share_link) 
+##### Click here: [My tableau The Global Divide on Homosexuality Persists](https://public.tableau.com/views/200720TheGlobalDivideonHomosexualityPersists/1?:language=zh-Hant&:display_count=y&publish=yes&:origin=viz_share_link) 
 
 – 
 #### Insights
