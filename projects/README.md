@@ -13,8 +13,9 @@ The datasets are published each week at: [MakeoverMonday Datasets](https://www.m
 
 Date | Topic | Data Source 
 ------------ | ------------- | ------------- 
+20200803|[UK visits abroad](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200803)|[ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/timeseries/gmax/ott) 
 20200727 | [Women in power ](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200727)|[World bank](http://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=excel) 
-20200720| [The Global Divide on Homosexuality Persists](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200720)| [Pew Research](https://www.pewresearch.org/global/2020/06/25/global-divide-on-homosexuality-persists/)
+20200720| [The Global Divide on Homosexuality Persists](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200720)| [Pew Research](https://www.pewresearch.org/global/2020/06/25/global-divide-on-homosexuality-persists/) 
 11| 22| 33 
 
 –  
