@@ -5,8 +5,9 @@
 The datasets are published each week at: [MakeoverMonday Datasets](https://www.makeovermonday.co.uk/data/).
 
 ### Makeover Monday 20200810
-This week we use the dataset about UK visits aboard(1986-2020) data.  
-Source from office for National Statistics, measured using Thousands of visits every year.  
+This week we use the dataset about Benefit of remote work data. 
+top benefit for remote working. Not surprisingly, the top one people voted for is the ability to have a flexible schedule. 
+Well, source given the data only has six rows and two columns… 
 
 #### My Visualization
 
@@ -18,12 +19,10 @@ Source from office for National Statistics, measured using Thousands of visits e
 
 – 
 #### Insights
-- Since 1987, visits abroad by UK citizens have increased almost three times. In fact, each year since 2002 has seen more trips abroad than the total population;
-- Over the 33 years, visits abroad have only fallen 4 times, 2 of which occurred during the global financial crisis from early 1990s and another 2007-2009, the other one is 9.11 terrorist attacks; 
-- the final one is the COVID-19 crisis,A major global recession which arose as an economic consequence of the ongoing pandemic.
-- Despite some political and economical downfalls, the number of visitors traveling to UK have been increasing every year. The most visited months are in the winter. 
+- This year, 98 percent of respondents agreed with this statement, Also it seems that once somone gets a taste of working remotely, they tend to recommend it: 97 precent told us they would recommend remote work to others.
+- A flexible schedule, they ability to work from any location and more commnting were the top report bentfits.  
 
 – 
-<br>⬅️[Previous](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200727) 
+<br>⬅️[Previous](https://kjhuang-94.github.io/personal-website/projects/data%20viz/MakeOverMonday-20200803) 
 <br>[Back to Home Page](https://kjhuang-94.github.io/personal-website/) 
 
