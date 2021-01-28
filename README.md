@@ -1,6 +1,6 @@
 ## Home Page
 ### About Me
-Hi there! I am Kuanju Huang. I will graduated from Master degree of Business administration from SJTU Antai College of Economics & Management in Mar 2021.
+Hi there! I am Kuanju Huang. I will graduated from Master degree of Business administration from SJTU Antai College of Economics & Management in Jun 2021.
 
 My analytical skillset includes:
 
